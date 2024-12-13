@@ -45,7 +45,7 @@ Este projeto é um aplicativo desenvolvido em **React Native** utilizando **Expo
 ### **Passos**
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/pkcosta843/nearby-app
+   git clone https://github.com/pkcosta843/nearby-app.git
    ```
 2. Acesse o diretório do projeto:  
    ```bash
