@@ -45,11 +45,11 @@ Este projeto é um aplicativo desenvolvido em **React Native** utilizando **Expo
 ### **Passos**
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/pkcosta843/mobile.git
    ```
 2. Acesse o diretório do projeto:  
    ```bash
-   cd seu-repositorio
+   cd mobile
    ```
 3. Instale as dependências:  
    ```bash
